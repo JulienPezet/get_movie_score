@@ -12,7 +12,6 @@ You can find IMDb API here: https://imdbpy.github.io
 """
 
 from rotten_tomatoes_client import RottenTomatoesClient
-from bs4 import BeautifulSoup
 import imdb
 
 
