@@ -11,7 +11,7 @@ IMDb found the following: The Brice Man (2005), by James Huth with Jean Dujardin
 
 IMDB Score: 51
 This movie has no Rotten Tomatometer score yet.
-
+```
 
 This program uses two APIs: 
   - IMDbPY (https://imdbpy.github.io);
